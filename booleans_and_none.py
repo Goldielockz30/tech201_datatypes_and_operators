@@ -48,20 +48,20 @@
 # None == Null in a lot of other languages
 
 # print(bool(None)) # False, None is always False
-#
+
 # x = None
-#
+
 # print(x == False) # False,
 # print(x == True) # False,
-#
+
 # # None, True and False are independent None != True or False
-#
+
 # # Checking if a variable is None
-#
+
 # print(x == None) # direct comparison - this can be a problem in more complex situations
-#
+
 # print(x is None) # Best practice for checking is something 'is None
-#
+
 # print(type(x)) # <class 'NoneType'>
 
 
