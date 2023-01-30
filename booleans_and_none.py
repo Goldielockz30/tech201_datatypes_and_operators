@@ -54,9 +54,9 @@
 # print(x == False) # False,
 # print(x == True) # False,
 
-# # None, True and False are independent None != True or False
+# None, True and False are independent None != True or False
 
-# # Checking if a variable is None
+# Checking if a variable is None
 
 # print(x == None) # direct comparison - this can be a problem in more complex situations
 
