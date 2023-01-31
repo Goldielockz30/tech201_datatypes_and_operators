@@ -1,7 +1,7 @@
 # Booleans
 
 # True or False
-
+# Make sure to capitalise True and False
 # a = True
 # b = False
 # use comparison operators
@@ -63,6 +63,5 @@
 # print(x is None) # Best practice for checking is something 'is None
 
 # print(type(x)) # <class 'NoneType'>
-
 
 
