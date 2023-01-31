@@ -3,45 +3,45 @@ tech201_datatypes_and_operators
 
 # Data types
 
-# Numeric - Ints, Floats, Longs, complex
+Numeric - Ints, Floats, Longs, complex  
 
-# String - Text of any type
+String - Text of any type  
 
-# Boolean - True or False
+Boolean - True or False  
 
-# Operators
+Operators  
 
-# Arithmetic operators
+Arithmetic operators  
 
-# +, -, *, /
++, -, *, /  
 
-# Comparison operators
+Comparison operators    
 
-# >
-# <
-# ==
-# !=
-# >= greater than or equal to
-# <=
+ - > 
+ - <  
+ - ==  
+ - !=  
+ - >= greater than or equal to  
+ - <=  
 
 # Implementing numeric types
 
-# Ints
+Ints
 
-# a = 24
-# b = 16
-#
-# print(a + b) # 40
-# print(a > b) # True
-# print(a < b) # False
+a = 24  
+b = 16  
 
-# Floats
-# FloatNum = 1.356
-# IntNum = 4
-# print(FloatNum + IntNum)
+print(a + b) # 40  
+print(a > b) # True  
+print(a < b) # False  
+
+Floats  
+FloatNum = 1.356  
+IntNum = 4  
+print(FloatNum + IntNum)  
 
 # Theres no limit to the size of decimal, but python will round things up
 
-# one_third = 1 / 3
-# print(one_third) # 0.3333333333333333
-# print(one_third * 3) # 1.0
+one_third = 1 / 3  
+print(one_third) # 0.3333333333333333  
+print(one_third * 3) # 1.0  
